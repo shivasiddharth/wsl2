@@ -21,13 +21,15 @@ echo cinnamon > ~/.xsession
 sudo nano /etc/xrdp/startwm.sh    
 ```     
 
-### comment these lines to:
+### Comment these lines to:
 #test -x /etc/X11/Xsession && exec /etc/X11/Xsession
 #exec /bin/sh /etc/X11/Xsession
 
 Add these lines:
 # cinnamon
-cinnamon
+cinnamon  
+     
+Then:   
 ```     
 sudo /etc/init.d/xrdp start
 ```     
