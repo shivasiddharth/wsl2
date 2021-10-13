@@ -40,11 +40,11 @@ localhost:3390
 ### Then login using your Ubuntu username and password
 
 ### Good links:
-Microsoft GUI announcement: https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary/
-Ubuntu WSL2 GUI Install:
-https://dev.to/darksmile92/linux-on-windows-wsl-with-desktop-environment-via-rdp-522g
-WSL 2 install: https://docs.microsoft.com/en-us/windows/wsl/install-win10
-Docker for WSL2: https://docs.docker.com/docker-for-windows/wsl/
-What is WSL? https://docs.microsoft.com/en-us/windows/wsl/about
-WSL documentation: https://docs.microsoft.com/en-us/windows/wsl/
-WSL 2 Announcement: https://devblogs.microsoft.com/commandline/announcing-wsl-2/
+Microsoft GUI announcement: https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary/      
+Ubuntu WSL2 GUI Install:     
+https://dev.to/darksmile92/linux-on-windows-wsl-with-desktop-environment-via-rdp-522g    
+WSL 2 install: https://docs.microsoft.com/en-us/windows/wsl/install-win10    
+Docker for WSL2: https://docs.docker.com/docker-for-windows/wsl/    
+What is WSL? https://docs.microsoft.com/en-us/windows/wsl/about    
+WSL documentation: https://docs.microsoft.com/en-us/windows/wsl/    
+WSL 2 Announcement: https://devblogs.microsoft.com/commandline/announcing-wsl-2/    
