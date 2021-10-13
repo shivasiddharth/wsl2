@@ -25,7 +25,8 @@ sudo nano /etc/xrdp/startwm.sh
 #test -x /etc/X11/Xsession && exec /etc/X11/Xsession        
 #exec /bin/sh /etc/X11/Xsession       
 
-Add the following:
+Add the following lines:   
+#cinnamon    
 cinnamon  
      
 Then:   
