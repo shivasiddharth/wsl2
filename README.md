@@ -51,8 +51,8 @@ Comment these lines to:
 #exec /bin/sh /etc/X11/Xsession       
 
 Add the following lines:   
-#xfce
-startxfce4  
+#xfce       
+startxfce4    
 
      
 ## Start XRDP using:         
